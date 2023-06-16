@@ -21,6 +21,7 @@
   "dependencies": {
     "@riophae/vue-treeselect": "^0.4.0",
     "axios": "0.18.1",
+    "components": "^0.1.0",
     "echarts": "^4.9.0",
     "echarts-liquidfill": "^2.0.6",
     "element-ui": "2.13.2",
