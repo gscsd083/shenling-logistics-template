@@ -42,13 +42,13 @@
 vue2+vuex+axios
 
 #### 外网展示
-> 部署说明：目前是 git 上传代码后在 gitlab 上自动部署
-- https://fe-slwl-manager.itheima.net/#/login
+> 部署说明：目前是 git 上传代码后在 gitHub 上部署静态页
+- https://gscsd083.github.io/#/login
 
 #### 开发环境
-- windows 版本 windows 10 企业版
+- windows 版本 windows 11 22H2 家庭版
 - 开发工具 vscode
-- node 版本 v14.19.1
+- node 版本 v16.20.0
 - npm 版本 v6.14.16
 
 #### 运行程序
